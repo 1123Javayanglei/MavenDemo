@@ -31,8 +31,8 @@ public class sendEmailDemo {
             Transport ts;
             // 2.通过session获取Transport对象（发送邮件的核心API）
             ts = session.getTransport();
-            // 3.通过邮件用户名密码链接
-            ts.connect("yanglei20011123@163.com", "ZYCSSOVCAQOLQUVR");
+            // 3.通过邮件用户名密码链接，输入自己的密码
+            ts.connect("yanglei20011123@163.com", "*******");
             // 4.创建邮件
             Message msg = createSimpleMail(session);
             // 5.发送电子邮件
