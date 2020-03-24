@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dae197ba-0801-4aa0-a08f-b987828e2dfa" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideInfoMessages" value="true" />
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+    <option name="HIDE_INFO_MESSAGES" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="/usr/local/Cellar/maven/3.6.3_1/libexec" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZZKq7TjZoARutfEA43zZUPBEa4" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.sendEmailDemo">
+    <configuration name="CESHI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CESHI" />
+      <module name="MavenDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkSMTP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkSMTP" />
+      <module name="MavenDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Text1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Text1" />
+      <module name="MavenDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sendEmailDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sendEmailDemo" />
+      <module name="MavenDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="text1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="text1" />
+      <module name="MavenDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.sendEmailDemo" />
+        <item itemvalue="Application.text1" />
+        <item itemvalue="Application.Text1" />
+        <item itemvalue="Application.LinkSMTP" />
+        <item itemvalue="Application.CESHI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dae197ba-0801-4aa0-a08f-b987828e2dfa" name="默认更改列表" comment="" />
+      <created>1585041363604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585041363604</updated>
+      <workItem from="1585041365772" duration="790000" />
+      <workItem from="1585042724568" duration="1233000" />
+      <workItem from="1585044773341" duration="9459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1120" y="127" key="#Web_浏览器" timestamp="1585054116416">
+      <screen x="-1440" y="23" width="1440" height="877" />
+    </state>
+    <state x="-1120" y="127" key="#Web_浏览器/-1440.23.1440.877/0.23.1879.1057@-1440.23.1440.877" timestamp="1585054116416" />
+    <state x="-907" y="172" key="#com.intellij.ide.util.MemberChooser" timestamp="1585045161982">
+      <screen x="-1440" y="23" width="1440" height="877" />
+    </state>
+    <state x="-907" y="172" key="#com.intellij.ide.util.MemberChooser/380.1103.1024.681/-1440.23.1440.877/0.23.1879.1057@-1440.23.1440.877" timestamp="1585045161982" />
+    <state width="1398" height="92" key="GridCell.Tab.0.bottom" timestamp="1585054986484">
+      <screen x="-1440" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="92" key="GridCell.Tab.0.bottom/-1440.23.1440.877/0.23.1879.1057@-1440.23.1440.877" timestamp="1585054986484" />
+    <state width="1398" height="256" key="GridCell.Tab.0.bottom/380.1103.1024.681/-1440.23.1440.877/0.23.1879.1057@-1440.23.1440.877" timestamp="1585048553866" />
+    <state width="1398" height="92" key="GridCell.Tab.0.center" timestamp="1585054986483">
+      <screen x="-1440" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="92" key="GridCell.Tab.0.center/-1440.23.1440.877/0.23.1879.1057@-1440.23.1440.877" timestamp="1585054986483" />
+    <state width="1398" height="256" key="GridCell.Tab.0.center/380.1103.1024.681/-1440.23.1440.877/0.23.1879.1057@-1440.23.1440.877" timestamp="1585048553865" />
+    <state width="1398" height="92" key="GridCell.Tab.0.left" timestamp="1585054986482">
+      <screen x="-1440" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="92" key="GridCell.Tab.0.left/-1440.23.1440.877/0.23.1879.1057@-1440.23.1440.877" timestamp="1585054986482" />
+    <state width="1398" height="256" key="GridCell.Tab.0.left/380.1103.1024.681/-1440.23.1440.877/0.23.1879.1057@-1440.23.1440.877" timestamp="1585048553864" />
+    <state width="1398" height="92" key="GridCell.Tab.0.right" timestamp="1585054986483">
+      <screen x="-1440" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="92" key="GridCell.Tab.0.right/-1440.23.1440.877/0.23.1879.1057@-1440.23.1440.877" timestamp="1585054986483" />
+    <state width="1398" height="256" key="GridCell.Tab.0.right/380.1103.1024.681/-1440.23.1440.877/0.23.1879.1057@-1440.23.1440.877" timestamp="1585048553865" />
+    <state width="1398" height="266" key="GridCell.Tab.1.bottom" timestamp="1585046606940">
+      <screen x="-1440" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.1.bottom/380.1103.1024.681/-1440.23.1440.877/0.23.1879.1057@-1440.23.1440.877" timestamp="1585046606940" />
+    <state width="1398" height="266" key="GridCell.Tab.1.center" timestamp="1585046606939">
+      <screen x="-1440" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.1.center/380.1103.1024.681/-1440.23.1440.877/0.23.1879.1057@-1440.23.1440.877" timestamp="1585046606939" />
+    <state width="1398" height="266" key="GridCell.Tab.1.left" timestamp="1585046606939">
+      <screen x="-1440" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.1.left/380.1103.1024.681/-1440.23.1440.877/0.23.1879.1057@-1440.23.1440.877" timestamp="1585046606939" />
+    <state width="1398" height="266" key="GridCell.Tab.1.right" timestamp="1585046606940">
+      <screen x="-1440" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.1.right/380.1103.1024.681/-1440.23.1440.877/0.23.1879.1057@-1440.23.1440.877" timestamp="1585046606940" />
+    <state x="-1211" y="50" width="1024" height="850" key="SettingsEditor" timestamp="1585046582086">
+      <screen x="-1440" y="23" width="1440" height="877" />
+    </state>
+    <state x="-1211" y="100" key="SettingsEditor/-1440.23.1440.877/0.23.1879.1057@-1440.23.1440.877" timestamp="1585043738310" />
+    <state x="-1211" y="50" width="1024" height="850" key="SettingsEditor/380.1103.1024.681/-1440.23.1440.877/0.23.1879.1057@-1440.23.1440.877" timestamp="1585046582086" />
+  </component>
+</project>
